@@ -42,7 +42,7 @@
                                         </q-carousel>
                                     </div>
                                 </div>
-                                <div class="col-12 col-md-7 listingDetails">
+                                <div class="col-12 col-md-7 q-pa-md listingDetails">
                                     <div class="text-h6 detailPrimary">Top Floor Penthouse Panoramic View</div>
                                     <div class="text-h6 detailSecondary">8 Guests<br>3 Bedrooms<br>7 Beds<br>3 Baths</div>
                                     <div class="text-h6 detailPrimary price"><span class="text-weight-bolder">$570</span> / night</div>

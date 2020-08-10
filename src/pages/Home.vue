@@ -171,9 +171,4 @@ body {
    position:relative;
 }
 
-.footer {
-  background:black;
-  height:100%;
-  position:relative;
-}
 </style>

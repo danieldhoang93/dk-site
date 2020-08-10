@@ -1,7 +1,7 @@
 <template>
   <q-layout view="hHh lpR fFf">
 
-    <q-header class="bg-primary text-white ">
+    <q-header class="bg-primary text-white">
       <q-toolbar class="header">
         <q-toolbar-title>
             <router-link to="/" class="text-h5 headerFont">DDH</router-link>
@@ -44,6 +44,7 @@ export default {
 .headerFont{
   text-decoration: none;
   color:white;
+  margin-left:25px;
 }
 
 </style>

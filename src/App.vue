@@ -44,6 +44,13 @@ export default {
     margin:auto;
 }
 
+
+.footer {
+  background:black;
+  height:100%;
+  position:relative;
+}
+
 @media screen and (max-width: 720px) {
   .body {
     width:100%;
